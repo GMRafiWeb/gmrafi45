@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, My Name is Rafi</h1>
 
-<h3 align="center">I’m a Content wWiter</h3>
+<h3 align="center">I’m a Content Writer</h3>
 <h3 align="center">
 
 <div size='20px' > welcome to my Github profile.Thank you for visiting.Have a nice day 🥰
