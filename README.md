@@ -1,18 +1,15 @@
-<h1 align="center">Hello👋, My Name is Rafi</h1>
+<h1 align="center">Hello, My Name is Rafi</h1>
 
 <h3 align="center">I’m a Content Writer</h3>
 <h3 align="center">
 
-<div size='20px' > welcome to my Github profile.Thank you for visiting.Have a nice day 🥰
+<div size='20px' > Welcome to my GitHub profile.
 
 
 </h3>
 
 
-- 👋 Hi,This is @gmrafi45 
-- 👀 I’m interested in Content writing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on nothing
+-  Hi, This is @gmrafi45 
 - 📫 How to reach me ...()
 
   
